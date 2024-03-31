@@ -1,5 +1,5 @@
-#ifndef __PARSING_HELPERS_H
-#define __PARSING_HELPERS_H
+#ifndef __PARSER_H
+#define __PARSER_H
 
 #include <stddef.h>
 #include <linux/if_ether.h>
